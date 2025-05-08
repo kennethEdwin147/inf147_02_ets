@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edwin\\Desktop\\exemples01\\labo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2545A4D9-B17A-47BF-991E-2A6ADF432BAC}|labo01\\labo01.vcxproj|C:\\Users\\edwin\\Desktop\\exemples01\\cercle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cercle.c",
+              "DocumentMoniker": "C:\\Users\\edwin\\Desktop\\exemples01\\cercle.c",
+              "RelativeDocumentMoniker": "..\\cercle.c",
+              "ToolTip": "C:\\Users\\edwin\\Desktop\\exemples01\\cercle.c",
+              "RelativeToolTip": "..\\cercle.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-05T17:41:23.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
