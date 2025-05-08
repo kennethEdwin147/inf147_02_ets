@@ -1,1 +1,2 @@
-# inf147_02_ets
+# Cours inf147
+![Texte alternatif](./ETS_50.jpg)
